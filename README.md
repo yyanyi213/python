@@ -42,5 +42,11 @@ python编程小测试
     passwd='root', 
     charset='utf8', 
     
+    然后执行:
+    C:\Users\Administrator\python\secnews_scrapy\secnews\spiders>scrapy crawl ioinspider
+    
+    数据已存入数据库中。
+    
+    
   
     
